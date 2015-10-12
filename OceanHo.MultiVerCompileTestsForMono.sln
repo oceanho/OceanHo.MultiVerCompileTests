@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OceanHo.CommonMonoNET40", "OceanHo.CommonMonoNET40\OceanHo.CommonMonoNET40.csproj", "{AB156042-5339-429E-9E8D-E07A8890903B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB156042-5339-429E-9E8D-E07A8890903B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AB156042-5339-429E-9E8D-E07A8890903B}.Debug|x86.Build.0 = Debug|Any CPU
+		{AB156042-5339-429E-9E8D-E07A8890903B}.Release|x86.ActiveCfg = Release|Any CPU
+		{AB156042-5339-429E-9E8D-E07A8890903B}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = OceanHo.CommonMonoNET40\OceanHo.CommonMonoNET40.csproj
+	EndGlobalSection
+EndGlobal

@@ -9,6 +9,10 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("OceanHo.Common Library for .NET 2.0")]
 #elif NET40
 [assembly: AssemblyTitle("OceanHo.Common Library for .NET 4.0")]
+#elif MonoNET20
+[assembly: AssemblyTitle("OceanHo.Common Library for Mono.NET 2.0")]
+#elif MonoNET40
+[assembly: AssemblyTitle("OceanHo.Common Library for Mono.NET 4.0")]
 #endif
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
